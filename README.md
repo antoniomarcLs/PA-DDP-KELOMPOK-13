@@ -22,7 +22,7 @@ TERMINAL:
 
 
 ![alt text](https://github.com/antoniomarcLs/PA-DDP-KELOMPOK-13/blob/main/Screenshots/Menu%20utama.png?raw=true)
-
+Menu utama ini adalah tampilan pertama yang memberikan kita pilihan untuk login apabila sudah memiliki akun atau sign up untuk membuat akun pembeli yang baru dan terakhir keluar dari loop untuk mengakhiri jalannya terminal
 
 
 ![alt text](https://github.com/antoniomarcLs/PA-DDP-KELOMPOK-13/blob/main/Screenshots/Login%20sebagai%20admin.png?raw=true)
