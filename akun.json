@@ -1,0 +1,22 @@
+{
+    "admin": {
+        "pin": "123",
+        "role": "admin",
+        "balance": 1014000
+    },
+    "akbar": {
+        "pin": "444",
+        "role": "Pelanggan",
+        "balance": 998999
+    },
+    "a": {
+        "pin": "1",
+        "role": "Pelanggan",
+        "balance": 908000
+    },
+    "selamet": {
+        "pin": "444",
+        "role": "Pelanggan",
+        "balance": 0
+    }
+}

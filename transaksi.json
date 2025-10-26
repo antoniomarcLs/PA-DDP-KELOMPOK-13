@@ -1,0 +1,101 @@
+[
+    {
+        "pembeli": "akbar",
+        "waktu": "2025-10-14T23:04:46.860674",
+        "items": [
+            {
+                "nama": "Toner Fresh Balance",
+                "harga": 85000,
+                "jumlah": 3,
+                "subtotal": 255000,
+                "diskon": 0,
+                "total_bayar": 255000
+            },
+            {
+                "nama": "Serum Glow Radiance",
+                "harga": 120000,
+                "jumlah": 3,
+                "subtotal": 360000,
+                "diskon": 36000,
+                "total_bayar": 324000
+            }
+        ],
+        "total": 579000
+    },
+    {
+        "pembeli": "a",
+        "waktu": "2025-10-23T14:05:23.646650",
+        "items": [
+            {
+                "nama": "Serum Glow Radiance",
+                "harga": 120000,
+                "jumlah": 2,
+                "subtotal": 240000,
+                "diskon": 0,
+                "total_bayar": 240000
+            }
+        ],
+        "total": 240000
+    },
+    {
+        "pembeli": "akbar",
+        "waktu": "2025-10-23T14:21:18.915199",
+        "items": [
+            {
+                "nama": "Moisturizer Hydrate Plus",
+                "harga": 115000,
+                "jumlah": 1,
+                "subtotal": 115000,
+                "diskon": 0,
+                "total_bayar": 115000
+            }
+        ],
+        "total": 115000
+    },
+    {
+        "pembeli": "a",
+        "waktu": "2025-10-23T20:09:35.885408",
+        "items": [
+            {
+                "nama": "Serum Glow Radiance",
+                "harga": 120000,
+                "jumlah": 1,
+                "subtotal": 120000,
+                "diskon": 0,
+                "total_bayar": 120000
+            }
+        ],
+        "total": 120000
+    },
+    {
+        "pembeli": "a",
+        "waktu": "2025-10-23T20:10:46.076076",
+        "items": [
+            {
+                "nama": "Facial Wash Gentle Clean",
+                "harga": 65000,
+                "jumlah": 1,
+                "subtotal": 65000,
+                "diskon": 0,
+                "total_bayar": 65000
+            }
+        ],
+        "total": 65000
+    },
+    {
+        "pembeli": "a",
+        "role": "pembeli",
+        "waktu": "2025-10-26T18:22:20.629101",
+        "items": [
+            {
+                "nama": "Serum Glow Radiance",
+                "harga": 120000,
+                "jumlah": 3,
+                "subtotal": 324000,
+                "diskon": 36000,
+                "total_bayar": 324000
+            }
+        ],
+        "total": 324000
+    }
+]

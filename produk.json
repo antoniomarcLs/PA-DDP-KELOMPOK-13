@@ -1,0 +1,165 @@
+[
+    {
+        "nama": "Serum Glow Radiance",
+        "kategori": "Serum",
+        "harga": 120000,
+        "stok": 8,
+        "tags": [
+            "brightening",
+            "normal",
+            "kering"
+        ],
+        "id": 1
+    },
+    {
+        "nama": "Toner Fresh Balance",
+        "kategori": "Toner",
+        "harga": 85000,
+        "stok": 12,
+        "tags": [
+            "hydrating",
+            "all",
+            "sensitif"
+        ],
+        "id": 2
+    },
+    {
+        "nama": "Moisturizer Hydrate Plus",
+        "kategori": "Moisturizer",
+        "harga": 115000,
+        "stok": 12,
+        "tags": [
+            "hydrating",
+            "kering",
+            "normal"
+        ],
+        "id": 3
+    },
+    {
+        "nama": "Facial Wash Gentle Clean",
+        "kategori": "Cleanser",
+        "harga": 65000,
+        "stok": 24,
+        "tags": [
+            "gentle",
+            "all",
+            "sensitif"
+        ],
+        "id": 4
+    },
+    {
+        "nama": "Sunscreen UV Protect",
+        "kategori": "Sunscreen",
+        "harga": 95000,
+        "stok": 18,
+        "tags": [
+            "spf",
+            "all"
+        ],
+        "id": 5
+    },
+    {
+        "nama": "Clay Mask Deep Clean",
+        "kategori": "Mask",
+        "harga": 105000,
+        "stok": 11,
+        "tags": [
+            "oil-control",
+            "acne",
+            "berminyak"
+        ],
+        "id": 6
+    },
+    {
+        "nama": "Essence Bright Boost",
+        "kategori": "Essence",
+        "harga": 130000,
+        "stok": 10,
+        "tags": [
+            "brightening",
+            "normal",
+            "kering"
+        ],
+        "id": 7
+    },
+    {
+        "nama": "Night Cream Repair",
+        "kategori": "Night Cream",
+        "harga": 140000,
+        "stok": 8,
+        "tags": [
+            "repair",
+            "kering",
+            "sensitif"
+        ],
+        "id": 8
+    },
+    {
+        "nama": "Lip Balm Moisture Care",
+        "kategori": "Lip Care",
+        "harga": 45000,
+        "stok": 30,
+        "tags": [
+            "hydrating",
+            "all"
+        ],
+        "id": 9
+    },
+    {
+        "nama": "Eye Serum Anti-Dark Circle",
+        "kategori": "Eye Care",
+        "harga": 150000,
+        "stok": 7,
+        "tags": [
+            "eye",
+            "repair",
+            "all"
+        ],
+        "id": 10
+    },
+    {
+        "nama": "Face Oil Natural Glow",
+        "kategori": "Oil",
+        "harga": 135000,
+        "stok": 9,
+        "tags": [
+            "hydrating",
+            "kering"
+        ],
+        "id": 11
+    },
+    {
+        "nama": "Body Lotion Soft Touch",
+        "kategori": "Body Care",
+        "harga": 95000,
+        "stok": 18,
+        "tags": [
+            "hydrating",
+            "all"
+        ],
+        "id": 12
+    },
+    {
+        "nama": "Acne Spot Treatment",
+        "kategori": "Treatment",
+        "harga": 125000,
+        "stok": 10,
+        "tags": [
+            "acne",
+            "oil-control",
+            "berminyak"
+        ],
+        "id": 13
+    },
+    {
+        "nama": "wardania",
+        "kategori": "make up",
+        "harga": 100000,
+        "stok": 3,
+        "tags": [
+            "bersih",
+            "all"
+        ],
+        "id": 16
+    }
+]
