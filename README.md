@@ -16,8 +16,21 @@ terminal pada code kami yang bertemakan
 System pemesanan produk kecantikan dan skincare
 
 FLOWCHART:
+Flowchart ini menjelaskan alur program berdasarkan garis besar isi program.
+
+============================================================================================
 
 
+![alt text](https://github.com/antoniomarcLs/PA-DDP-KELOMPOK-13/blob/main/Flowchart/PA%20ddp%202025-utama.drawio.png?raw=true)
+
+
+![alt text](https://github.com/antoniomarcLs/PA-DDP-KELOMPOK-13/blob/main/Flowchart/PA%20ddp%202025-admin.drawio.png?raw=true)
+
+
+![alt text](https://github.com/antoniomarcLs/PA-DDP-KELOMPOK-13/blob/main/Flowchart/PA%20ddp%202025-pembeli.drawio.png?raw=true)
+
+
+============================================================================================
 
 TERMINAL:
 
